@@ -14,11 +14,11 @@ L'obiettivo è valutare la capacità dei modelli, sia **commerciali** che **open
 ---
 
 ## 📚 Sommario
-- [Introduzione]
-- [Domande di Ricerca e Obiettivi]
-- [Analisi Sperimentale]
-- [Risultati]
-- [Conclusioni e Proposte]
+- Introduzione
+- Domande di Ricerca e Obiettivi
+- Analisi Sperimentale
+- Risultati
+- Conclusioni e Proposte
 
 ---
 
@@ -85,11 +85,11 @@ The goal is to assess how **commercial** and **open-source** models resist **mal
 ---
 
 ## 📚 Table of Contents
-- [Introduction]
-- [Research Questions and Goals]
-- [Experimental Analysis]
-- [Results]
-- [Conclusions and Proposals]
+- Introduction
+- Research Questions and Goals
+- Experimental Analysis
+- Results
+- Conclusions and Proposals
 
 ---
 
